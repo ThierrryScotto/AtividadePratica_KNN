@@ -1,0 +1,2 @@
+# AtividadePratica_KNN
+AtividadePratica_KNN
